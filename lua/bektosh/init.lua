@@ -1,0 +1,10 @@
+require("bektosh.nvim-tree")
+require("bektosh.cmp")
+require("bektosh.colorscheme")
+require("bektosh.keymaps")
+require("bektosh.options")
+require("bektosh.treesitter")
+require("bektosh.plugins")
+require("bektosh.lsp")
+require("bektosh.autopairs")
+
